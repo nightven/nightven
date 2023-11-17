@@ -40,7 +40,6 @@
   <img src="./images/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="./images/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="./images/firebase-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="./images/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="./images/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
   <img src="./images/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 </div>
