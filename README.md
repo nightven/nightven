@@ -32,6 +32,9 @@
   <img src="./images/babel-original.svg" title="Babel" alt="Babel" width="40" height="40"/>&nbsp;
   <img src="./images/terminal-original.png" title="Terminal" alt="Terminal" width="40" height="40"/>&nbsp;
   <img src="./images/emotion-original.png" title="Emotion" alt="Emotion" width="40" height="40"/>&nbsp;
+  <img src="./images/styled-components.png" title="Styled-components" alt="Styled-components" width="40" height="40"/>&nbsp;
+  <img src="./images/bootstrap.png" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="./images/materialUI.png" title="MaterialUI" alt="MaterialUI" width="40" height="40"/>&nbsp;
   <img src="./images/strapi.png" title="Strapi" alt="Strapi" width="40" height="40"/>&nbsp;
   <img src="./images/netlify-original.svg" title="Netlify" alt="Netlify" width="40" height="40"/>&nbsp;
   <img src="./images/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
