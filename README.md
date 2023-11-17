@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm front-end developer 🤝 🤙<h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/4KzpjLvJjJknJ5Xuak/giphy.gif" width="100"/>
 </div>
+<h1 align="center">Hi there, I'm front-end developer 🤝 🤙<h1>
 
 <h2>💁Aboute Me:</h2>
 <div>
