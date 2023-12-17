@@ -15,7 +15,7 @@
 <p align="left">
  <a href="https://www.linkedin.com/in/vitaliybeyar/)" target="_blank" rel="noreferrer">Linkedin</a> /
  <a href="https://t.me/nightven" target="_blank" rel="noreferrer">Telegram</a> /
- <a href="mailto:vitaliy.beyar@gmail.com@gmail.com" target="_blank" rel="noreferrer">Gmail</a>
+ <a href="mailto:vitaliy.beyar@gmail.com" target="_blank" rel="noreferrer">Gmail</a>
 </p>
 
 
