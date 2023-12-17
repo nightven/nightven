@@ -21,7 +21,7 @@
 
 <h2>Roadmap 2023 :</h2>
 <p>✍️ - Learned: HTML, CSS, SaaS, BEM, JS, TS, React, Redux, FireBase</p>
-<p>📚 - Learn: Node.js, MongoDB, Next.js</p>
+<p>📚 - Learn: Node.js, Express.js, MongoDB, Mongoose, Next.js</p>
 <h2>My stack and tools :</h2>
 <div>
   <img src="./images/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
