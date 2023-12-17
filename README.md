@@ -54,6 +54,6 @@
 </div>
 
 <div align="center"> 
-  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nightven&show_icons=true&theme=neon&title_color=a2208a&text_color=ffffff&locale=en" alt="nightven" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nightven&show_icons=true&theme=neon&title_color=a2208a&text_color=ffffff&locale=en&layout=compact" alt="nightven" /></p>
+  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nightven&show_icons=true&theme=codeSTACKr&title_color=a2208a&text_color=ffffff&locale=en" alt="nightven" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nightven&show_icons=true&theme=codeSTACKr&title_color=a2208a&text_color=ffffff&locale=en&layout=compact" alt="nightven" /></p>
 </div>
