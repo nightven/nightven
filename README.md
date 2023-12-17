@@ -53,6 +53,8 @@
   <img src="./images/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 </div>
 
+<div align="center"> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nightven&show_icons=true&theme=radical&title_color=a2208a&text_color=ffffff&locale=en&layout=compact" alt="nightven" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nightven&show_icons=true&theme=radical&title_color=a2208a&text_color=ffffff&locale=en" alt="nightven" /></p>
+</div>
