@@ -10,6 +10,15 @@
 <p>🇺🇦 Ukrainian - native</p>
 <p>🇬🇧 English - basic level</p>
 </div>
+
+<h3 align="left">To get in touch with me:</h3>
+<p align="left">
+ <a href="https://www.linkedin.com/in/vitaliybeyar/)" target="_blank" rel="noreferrer">Linkedin</a> /
+ <a href="https://t.me/nightven" target="_blank" rel="noreferrer">Telegram</a> /
+ <a href="mailto:vitaliy.beyar@gmail.com@gmail.com" target="_blank" rel="noreferrer">Gmail</a>
+</p>
+
+
 <h2>Roadmap 2023 :</h2>
 <p>✍️ - Learned: HTML, CSS, SaaS, BEM, JS, TS, React, Redux, FireBase</p>
 <p>📚 - Learn: Node.js, MongoDB, Next.js</p>
@@ -43,3 +52,7 @@
   <img src="./images/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
   <img src="./images/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 </div>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nightven&show_icons=true&theme=radical&title_color=a2208a&text_color=ffffff&locale=en&layout=compact" alt="nightven" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nightven&show_icons=true&theme=radical&title_color=a2208a&text_color=ffffff&locale=en" alt="nightven" /></p>
