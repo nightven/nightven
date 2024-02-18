@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/4KzpjLvJjJknJ5Xuak/giphy.gif" width="100"/>
 </div>
-<h1 align="center">Hi there, I'm front-end developer 🤝 🤙<h1>
+<h1 align="center">Hi there, I'm Full-stack developer 🤝 🤙<h1>
 
 <h2>💁Aboute Me:</h2>
 <div>
@@ -20,8 +20,9 @@
 
 
 <h2>Roadmap 2023 :</h2>
-<p>✍️ - Learned: HTML, CSS, SaaS, BEM, JS, TS, React, Redux, FireBase</p>
-<p>📚 - Learn: Node.js, Express.js, MongoDB, Mongoose, Next.js</p>
+<p>✍️ - Learned: HTML, CSS, SaaS, BEM, JS, TS, React, Redux, FireBase, Node.js, Express.js, MongoDB, Mongoose </p>
+<h2>Roadmap 2024 :</h2>
+<p>📚 - Learn: Next.js, Nest.js, React Native</p>
 <h2>My stack and tools :</h2>
 <div>
   <img src="./images/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
