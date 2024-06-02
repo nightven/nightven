@@ -5,7 +5,7 @@
 
 <h2>💁Aboute Me:</h2>
 <div>
-  <p>⚡️ I have been studying front-end development for almost 1 year now. During this time, I gained experience in creating web applications and services.</p>
+  <p>⚡️ I have been studying full-stack development for almost 1 year. During this time, I gained experience in creating web applications and services.</p>
   <p>👩🏼‍💻 As a developer, I code independently and with my training team, implement new functionality in a short time, do quick bug fixes and support the old part of applications or refactor them.</p>
 <p>🇺🇦 Ukrainian - native</p>
 <p>🇬🇧 English - basic level</p>
@@ -20,7 +20,7 @@
 
 
 <h2>Roadmap 2023 :</h2>
-<p>✍️ - Learned: HTML, CSS, SaaS, BEM, JS, TS, React, Redux, FireBase, Node.js, Express.js, MongoDB, Mongoose </p>
+<p>✍️ - Learned: HTML, CSS, SaaS, BEM, JS, TS, React, Redux, FireBase, Node.js, Express.js, MongoDB, Mongoose, Next.js, NextAuth </p>
 <h2>Roadmap 2024 :</h2>
 <p>📚 - Learn: Next.js, Nest.js, React Native</p>
 <h2>My stack and tools :</h2>
