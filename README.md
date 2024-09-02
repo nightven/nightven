@@ -20,9 +20,9 @@
 
 
 <h2>Roadmap 2023 :</h2>
-<p>✍️ - Learned: HTML, CSS, SaaS, BEM, JS, TS, React, Redux, FireBase, Node.js, Express.js, MongoDB, Mongoose, Next.js, NextAuth </p>
+<p>✍️ - Learned: HTML, CSS, SaaS, BEM, JS, TS, React, Redux, FireBase, Node.js, Express.js, MongoDB, PostgrySQL, Mongoose, Next.js, NextAuth </p>
 <h2>Roadmap 2024 :</h2>
-<p>📚 - Learn: Next.js, Nest.js, React Native</p>
+<p>📚 - Learn: Nest.js, React Native</p>
 <h2>My stack and tools :</h2>
 <div>
   <img src="./images/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
